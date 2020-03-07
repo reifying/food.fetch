@@ -13,6 +13,8 @@ The project includes
     3. cleans data
     4. saves in json format
 2. Python scripts for AWS Lambda to support Alexa 
+    1. grabs user-requested facility and finds it in the json
+    2. returns a string containing that facility's health inspection rating in Irving, TX, with the worst location of franchises having multiple locations in Irving having precedence.
 
 
 ## Remaining
