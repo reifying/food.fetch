@@ -21,3 +21,5 @@ The project includes
 
 1. Eliminate false matches from Yelp data
 2. Answer question from Alexa user based on user's location
+
+![Preview of Alexa interaction](https://user-images.githubusercontent.com/4742936/76153509-9042a580-6092-11ea-800b-4023af785577.png)
